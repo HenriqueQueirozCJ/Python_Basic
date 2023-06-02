@@ -1,6 +1,7 @@
 """ Calculadora com while """
+import os
 while True:
-    print('Calculadora do Safadão')
+    print('##### Calculadora 4 operações #####')
     #########
     numero_1 = input('Digite um número: ')
     numero_2 = input('Digite outro número: ')
@@ -44,11 +45,15 @@ while True:
         ...
     if operador == '/':
         res=(float(num_1_float / num_2_float))        
-    
+        ...
+
+    os.system("cls")
 
     print(f"O resultado da operação foi de: {res}")
-
-    sair = input('Quer sair? [s]im: ').lower().startswith('s')
-
+    
+    sair = input('Quer sair? [s]im or [n]ão: ').lower().startswith('s')
+    
     if sair is True:
         break
+    
+  
