@@ -34,7 +34,7 @@ while True:
     ###
 
     if operador == '+':
-        res=float(num_1_float + num_1_float)
+        res=float(num_1_float + num_2_float)
 
         ...
     if operador == '-':
