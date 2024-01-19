@@ -4,7 +4,7 @@ print(456)
 int('a')'''
 
 '''while True:'''
-abc = input("Digite um número: ")
+abc = input("Digite um número:  ")
 
 '''if (abc.isdigit()):
         print(f"O número é: {abc}")
