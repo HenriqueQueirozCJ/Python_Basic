@@ -1,4 +1,4 @@
 ==============
 # Python Básico
-Repositório Destinado a minha revisão e aprendizado na linguagem Python
+<p> Repositório Destinado a minha revisão e aprendizado na linguagem Python </p>
 ==============
