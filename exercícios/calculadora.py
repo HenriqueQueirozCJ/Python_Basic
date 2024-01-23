@@ -1,6 +1,7 @@
 """ Calculadora com while """
 import os
 while True:
+    os.system ("clear")
     print('##### Calculadora 4 operações #####')
     #########
     numero_1 = input('Digite um número: ')
